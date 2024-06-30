@@ -32,6 +32,10 @@ Utilized ML algorithms for prediction models.
 
 Each project contains detailed documentation, with visualizations supporting analysis and findings.
 
+## 🧩 Animations
+
+![Animation](https://media.giphy.com/media/l0MYGb1LuZ3n7dRnO/giphy.gif)
+
 Feel free to explore and reach out!
 
 ---
